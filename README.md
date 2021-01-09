@@ -1,4 +1,19 @@
-# world-map-starterkit
+# Winterkongress work adventure map
 
-This repositor is intended to give you an overview over the features in the world as well as a good starting point for creating your own maps! Feel free to use and change them!
+## Maps testen
 
+Maps ausprobieren auf CCC testserver:
+
+- [small.json auf ccc.de](https://test.visit.at.wa-test.rc3.cccv.de/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/small.json)
+- [medium.json auf ccc.de](https://test.visit.at.wa-test.rc3.cccv.de/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/medium.json)
+- [big.json auf ccc.de](https://test.visit.at.wa-test.rc3.cccv.de/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/big.json)
+
+Maps ausprobieren auf workandevntu.re:
+
+- [small.json auf workadventu.re](https://play.workadventu.re/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/small.json)
+- [medium.json auf workadventu.re](https://play.workadventu.re/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/medium.json)
+- [big.json auf workadventu.re](https://play.workadventu.re/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/big.json)
+
+## Tutorials und docs:
+
+- [workadventu.re: CREATE YOUR MAP!](https://workadventu.re/create-map.html)

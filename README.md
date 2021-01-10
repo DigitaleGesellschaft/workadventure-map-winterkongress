@@ -18,3 +18,4 @@ Maps ausprobieren auf workandevntu.re:
 ## Tutorials und docs:
 
 - [workadventu.re: CREATE YOUR MAP!](https://workadventu.re/create-map.html)
+- [Git Illustrated Series' Articles](https://dev.to/erikaheidi/series/4483)

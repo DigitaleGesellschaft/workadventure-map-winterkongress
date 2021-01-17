@@ -8,6 +8,7 @@ Maps ausprobieren auf CCC testserver:
 - [medium.json auf ccc.de](https://test.visit.at.wa-test.rc3.cccv.de/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/medium.json)
 - [big.json auf ccc.de](https://test.visit.at.wa-test.rc3.cccv.de/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/big.json)
 - [winterlandschaft.json auf ccc.de](https://test.visit.at.wa-test.rc3.cccv.de/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/winterlandschaft.json)
+- [winterladdschaft.json auf amazee.io](https://play.workadventure.test1.amazee.io/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/winterlandschaft.json)
 
 Maps ausprobieren auf workandevntu.re:
 

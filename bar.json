@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -294,6 +301,19 @@
          "name":"AceSet-Hospital",
          "spacing":0,
          "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":4,
+         "firstgid":9115,
+         "image":"tiles_png\/winter\/tresen.png",
+         "imageheight":128,
+         "imagewidth":128,
+         "margin":0,
+         "name":"tresen",
+         "spacing":0,
+         "tilecount":16,
          "tileheight":32,
          "tilewidth":32
         }],

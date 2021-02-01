@@ -1,8 +1,4 @@
-Bytewerk Expansion for Pipoya CC0 1.0 Universal
-
-CERT (cert.ccc.de) CC-BY-SA
-
-LPC License
+License
 -------
 
 CC-BY-SA 3.0:
@@ -149,20 +145,12 @@ Manuel Riecke (AKA MrBeast)
 Daniel Armstrong (AKA HughSpectrum)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Castle work:	
+Castle work:
 
  - castlewalls.png
  - castlefloors.png
  - castle_outside.png
  - castlefloors_outside.png
  - castle_lightsources.png
------
 
-rc3 Deko, Inventory, structures
-
-snowWIP by Daniel Cook, yd, Jetrel, Zabin CC-BY-SA 3.0 https://opengameart.org/content/2d-lost-garden-zelda-style-tiles-winter-theme-with-additions
-
-sloppymess by Spring CC0 https://opengameart.org/content/very-basic-32x32-topdown-snow-tileset
-
-snowwateralt and coldwater by Nushio CC-BY-SA 3.0 https://opengameart.org/content/lpc-colorful-sand-deep-water
 

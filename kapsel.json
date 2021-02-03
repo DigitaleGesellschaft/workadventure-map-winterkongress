@@ -84,7 +84,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playVideo",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/live.dort.c3voc.de\/q4_native_hd.webm"
                 }],

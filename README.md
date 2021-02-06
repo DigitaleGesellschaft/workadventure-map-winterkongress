@@ -2,14 +2,16 @@
 
 ## Maps testen
 
+Maps ausprobieren auf amazee.io und switch
+- [winterlandschaft.json auf amazee.io (develop branch)](https://front.develop.workadventure-digiges.ch4.amazee.io/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/winterlandschaft.json)
+- [winterlandschaft.json auf amazee.io (main branch)](https://front.main.workadventure-digiges.ch4.amazee.io/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/winterlandschaft.json)
+
 Maps ausprobieren auf CCC testserver:
 
 - [small.json auf ccc.de](https://test.visit.at.wa-test.rc3.cccv.de/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/small.json)
 - [medium.json auf ccc.de](https://test.visit.at.wa-test.rc3.cccv.de/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/medium.json)
 - [big.json auf ccc.de](https://test.visit.at.wa-test.rc3.cccv.de/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/big.json)
 - [winterlandschaft.json auf ccc.de](https://test.visit.at.wa-test.rc3.cccv.de/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/winterlandschaft.json)
-- [winterlandschaft.json auf amazee.io (develop branch)](https://front.develop.workadventure-digiges.ch4.amazee.io/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/winterlandschaft.json)
-- [winterlandschaft.json auf amazee.io (main branch)](https://front.main.workadventure-digiges.ch4.amazee.io/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/winterlandschaft.json)
 
 Maps ausprobieren auf workandevntu.re:
 

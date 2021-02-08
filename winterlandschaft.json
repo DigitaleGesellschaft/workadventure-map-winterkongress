@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"kapsel.json#start"
+                 "value":"kapseltest.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,

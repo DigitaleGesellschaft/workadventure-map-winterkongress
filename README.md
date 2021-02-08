@@ -3,7 +3,7 @@
 ## Maps testen
 
 Maps ausprobieren auf switch
-- [winterlandschaft.json (develop branch)](https://world.test.winterkongress.ch/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/winterlandschaft.json)
+- [winterlandschaft.json (develop branch)](https://test.world.winterkongress.ch/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/winterlandschaft.json)
 - [winterlandschaft.json (main branch)](https://world.winterkongress.ch/_/global/digitalegesellschaft.github.io/workadventure-map-winterkongress/winterlandschaft.json)
 
 Maps ausprobieren auf amazee.io

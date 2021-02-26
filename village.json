@@ -213,6 +213,12 @@
          "id":49,
          "name":"strict_website",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"www\/strict.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
